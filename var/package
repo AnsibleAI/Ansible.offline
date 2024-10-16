@@ -12,6 +12,6 @@ package=(
     "${name}_"
 
     # Optional
-    "python3-winrm"
-    "python3-simplejson
+    # "python3-winrm"
+    # "python3-simplejson
 )
